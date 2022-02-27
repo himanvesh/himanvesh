@@ -1,4 +1,4 @@
-# Hi, I’m @himanvesh
+# Hi 👋🏻, I’m @Himanvesh
 
 I am a Business Analyst who is passionate about business data and creating databases and analytics using real world data. 
 
