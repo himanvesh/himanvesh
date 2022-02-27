@@ -1,7 +1,5 @@
 # Hi 👋🏻, I’m Himanvesh 👨🏻‍💻
 
-I am a Business Analyst who is passionate about business data and creating databases and analytics using real world data. 
-
 <h2>💻 I'm Currently Learning</h2>
 
 __Data Analyst Certificate__
