@@ -8,13 +8,12 @@ __Tensorflow Developer Certification__
 - [DeepLearning.ai - TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 <!-- __George Washington University__
-- CS412 Introduction to Machine Learning
-- CS418 Introduction to Data Science
-- CS478 Software Development for Mobile Platforms -->
-__University of Illinois at Chicago__
-- CS441 Engineering Distributed Objects for Cloud Computing
-- CS594 Big Data Analytics and Visualization
-- CS583 Data Mining and Text Mining
+- -->
+__George Washington University__
+- DNSC 6301 - 
+- DNSC 6302 -
+- DNSC 6303 - 
+- DNSC 6312 - 
 
 <h2>Currently working:</h2>
 <h4>Graduate Research Assistant</h4>
