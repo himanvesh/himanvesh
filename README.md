@@ -23,13 +23,7 @@ __George Washington University__
 <h2>Currently working:</h2>
 <h4>Technical Support Assistant I</h4>
 
-Now working as Techinical Support Assistant at [GW Information technology](https://it.gwu.edu/), George Washington University, Washington, DC. I build HIPAA Compliant Healthcare software, automation and analyze clinical research data.
-
-<h4>#100MLProjects 💯</h4>
-
-__100MLProjects__ is a challenge that I created for myself to get proficient in Machine Learning and Deep Learning by building 100 Projects with increasing complexity, over a period of two years. 
-<h4>Software Developer(Graduate Research Assistant)</h4>
-  
+Now working as Techinical Support Assistant at [GW Information technology](https://it.gwu.edu/), George Washington University, Washington, DC. I Provide technical support assistance to departments and users and faculties. Walk-in support for IT and software issues.
 <!---
 himanvesh/himanvesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
