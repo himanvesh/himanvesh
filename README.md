@@ -29,8 +29,7 @@ I document my experience throughout this process, and you can find them on my [B
 Now working as Software Developer(Graduate Research Assistant) at [Breathe Chicago Center](https://breathechicago.uic.edu/), Univerity of Illinois at Chicago. I build HIPAA Compliant Healthcare software, automation and analyze clinical research data.
 
 __Check out my GitHub repository:__
-
-@ -38,8 +29,8 @@ __Check out my GitHub repository:__
+__
     <a href="https://github.com/laxmena/PyCalendly">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
     </a>
