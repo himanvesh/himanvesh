@@ -29,12 +29,11 @@ I document my experience throughout this process, and you can find them on my [B
 Now working as Software Developer(Graduate Research Assistant) at [Breathe Chicago Center](https://breathechicago.uic.edu/), Univerity of Illinois at Chicago. I build HIPAA Compliant Healthcare software, automation and analyze clinical research data.
 
 __Check out my GitHub repository:__
-__
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/100MLProjects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects" alt="GitHub Stats" />
+<a href="https://github.com/laxmena/PyCalendly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/laxmena/100MLProjects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=100MLProjects" alt="GitHub Stats" />
   
 <!---
 himanvesh/himanvesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
