@@ -4,8 +4,8 @@ I am a Business Analyst who is passionate about business data and creating datab
 
 <h2>💻 I'm Currently Learning</h2>
 
-__Tensorflow Developer Certification__
-- [DeepLearning.ai - TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+__Data Analyst Certificate__
+- [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 
 <!-- __George Washington University__
 - -->
@@ -23,9 +23,9 @@ __George Washington University__
 
 
 <h2>Currently working:</h2>
-<h4>Graduate Research Assistant</h4>
+<h4>Technical Support Assistant I</h4>
 
-Now working as Graduate Research Assistant at [Breathe Chicago Center](https://breathechicago.uic.edu/), Univerity of Illinois at Chicago. I build HIPAA Compliant Healthcare software, automation and analyze clinical research data.
+Now working as Techinical Support Assistant at [Breathe Chicago Center](https://breathechicago.uic.edu/), Univerity of Illinois at Chicago. I build HIPAA Compliant Healthcare software, automation and analyze clinical research data.
 
 <h4>#100MLProjects 💯</h4>
 
