@@ -16,7 +16,7 @@ __George Washington University__
 - DNSC 6311 - Stochastic Fnd: Prob Models
 - DNSC 6312 - Statistic for Analytics I & II
 - DNSC 6307 - Optimization I 
-- DNSC 6314 - Machine Learning I 
+- DNSC 6314 - Machine Learning I & II
 - DNSC 6317 - Business Analytics Prcticum (Consulting)
 - DNSC 6319 - Time Series Forecastng 
 
