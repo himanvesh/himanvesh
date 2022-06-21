@@ -5,7 +5,7 @@ Business Analytics student at GWU, passionate about Data Analytics, Visualizatio
 <h2>💻 I'm Currently Learning</h2>
 
 __Data Analyst Certificate__
-- [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 <!-- __George Washington University__
 - -->
