@@ -1,6 +1,6 @@
 # Hi 👋🏻, I’m Himanvesh 👨🏻‍💻
 
-Business Analytics student at GWU, passionate about Data Analytics, Visualization, Data Management and Forecasting. Currently seeking a Business Analyst internship within an organization that recognizes my skills, qualifications, academic record, commitment, and motivation. Aspiring to apply my skills to make a worthy contribution to the role.
+Business Analytics student at GWU, passionate about Data Analytics, Visualization, Data Management and Forecasting. Currently seeking a Business Analyst or Data Analyst roles within an organization that recognizes my skills, qualifications, academic record, commitment, and motivation. Aspiring to apply my skills to make a worthy contribution to the role.
 
 <h2>💻 I'm Currently Learning</h2>
 
