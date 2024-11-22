@@ -5,7 +5,7 @@ Risk Analyst at Regions Bank and Business Analytics graduate student from GWU, p
 <h2>Currently working:</h2>
 <h4>Risk Analyst, Data Governance and Management</h4>
 
-As a Risk Analyst specializing in Data Governance and Management at [Regions Bank]([https://www.regions.com]).  I collobrate closely with risk partners to implemnt a robust data governance framework across the organization's risk functions. My role ensures that proper governance, lineage, controls, and procedures are in place in to maintain the integrity, accuracy, and compliance of regulatory reports and internal risk models. By streamling data management practices and aligning them with regulatory requirements, I help safegaurd the organization's decision-making processes and risk mitigation strategies.
+As a Risk Analyst specializing in Data Governance and Management at [Regions Bank](https://www.regions.com).  I collobrate closely with risk partners to implemnt a robust data governance framework across the organization's risk functions. My role ensures that proper governance, lineage, controls, and procedures are in place in to maintain the integrity, accuracy, and compliance of regulatory reports and internal risk models. By streamling data management practices and aligning them with regulatory requirements, I help safegaurd the organization's decision-making processes and risk mitigation strategies.
 
 <!-- __George Washington University__
 - -->
